@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @H4ck3d0ff
-- 👀 I’m interested in all things Data Science anbd Cyberscurity, but concentrating mostly Data Analytics & visualisation right now
+- 👀 I’m interested in all things Data Science and Cyberscurity, but concentrating mostly Data Analytics & visualisation right now
 - 🌱 I’m currently learning Python, SQL and anything i can get my hands on as long as it helps #2
 
 <!---
